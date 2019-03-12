@@ -3,7 +3,7 @@ Một số quy tắc khác
 
 Dưới đây là một số các quy tắc khác, không được quy định cụ thể trong các bộ PSR.
   - Comment đầu hàm: Đầu mỗi function cần có comment vs format như sau:
-  ```php
+```php
   /**
      * @author: YourName<YourEmail>
      * @since: dd/mm/YYYY
@@ -11,7 +11,7 @@ Dưới đây là một số các quy tắc khác, không được quy định c
      * @param string $param2
      * @return array|bool|orsomething
      */
-  ```
+```
   
   
   - Sử dụng phiên bản PHP mới nhất nếu có thể.
