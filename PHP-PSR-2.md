@@ -13,7 +13,7 @@ của người khác. Nó thực hiện điều đó bằng cách đặt ra nh�
 1. Khái quát chung
 -----------
 
-- Code phải tuân theo "coding style guide" [PSR-1]: 
+- Code phải tuân theo "coding style guide" [PSR-1]
 
 - Code không dùng tab, mà phải sử dụng 4 dấu cách làm indent.
 
@@ -77,7 +77,7 @@ class Foo extends Bar implements FooInterface
 
 ### 2.1 Basic Coding Standard
 
-Code phải tuân theo "coding style guide" PSR [[PSR-1]].
+Code phải tuân theo "coding style guide" PSR [PSR-1].
 
 ### 2.2 Files
 
