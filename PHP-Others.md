@@ -2,6 +2,7 @@ Một số quy tắc khác
 =====================
 
 Dưới đây là một số các quy tắc khác, không được quy định cụ thể trong các bộ PSR.
+
   - Comment đầu hàm: Đầu mỗi function cần có comment vs format như sau:
 ```php
   /**
