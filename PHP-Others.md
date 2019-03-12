@@ -2,9 +2,18 @@ Một số quy tắc khác
 =====================
 
 Dưới đây là một số các quy tắc khác, không được quy định cụ thể trong các bộ PSR.
-
-- Sử dụng phiên bản PHP mới nhất nếu có thể.
-- Khi khai báo mảng, các phần tử của mảng có thể được tách thành nhiều dòng. Khi làm vậy thì cần phải tuân thủ các quy tắc sau:
+  - Comment đầu hàm: Đầu mỗi function cần có comment vs format như sau:
+  ```php
+  /**
+     * @author: YourName<YourEmail>
+     * @since: dd/mm/YYYY
+     * @param array $param1
+     * @param string $param2
+     * @return array|bool|orsomething
+     */
+  ```
+  - Sử dụng phiên bản PHP mới nhất nếu có thể.
+  - Khi khai báo mảng, các phần tử của mảng có thể được tách thành nhiều dòng. Khi làm vậy thì cần phải tuân thủ các quy tắc sau:
   - Phần từ đầu tiên của mảng phải được đặt trên một dòng mới.
   - Mỗi dòng chỉ được phép có một phần tử, các phần tử được indent một lần.
   - Cần phải có dấu phẩy ở cuối phần tử cuối cùng.
