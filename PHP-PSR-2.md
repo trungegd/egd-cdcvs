@@ -7,7 +7,7 @@ Bộ quy tắc này được tạo ra nhằm giảm bới những khó khăn tro
 của người khác. Nó thực hiện điều đó bằng cách đặt ra những quy định hay gợi
 ý về việc format PHP code.
 
-[PSR-1]: ./PSR-1.md
+[PSR-1]: ./PHP-PSR-1.md
 
 
 1. Khái quát chung
