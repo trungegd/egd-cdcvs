@@ -12,6 +12,8 @@ Dưới đây là một số các quy tắc khác, không được quy định c
      * @return array|bool|orsomething
      */
   ```
+  
+  
   - Sử dụng phiên bản PHP mới nhất nếu có thể.
   - Khi khai báo mảng, các phần tử của mảng có thể được tách thành nhiều dòng. Khi làm vậy thì cần phải tuân thủ các quy tắc sau:
   - Phần từ đầu tiên của mảng phải được đặt trên một dòng mới.
