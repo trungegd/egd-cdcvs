@@ -13,7 +13,7 @@ của người khác. Nó thực hiện điều đó bằng cách đặt ra nh�
 1. Khái quát chung
 -----------
 
-- Code phải tuân theo "coding style guide" PSR [[PSR-1]].
+- Code phải tuân theo "coding style guide" [PSR-1]: ./PHP-PSR-1.md
 
 - Code không dùng tab, mà phải sử dụng 4 dấu cách làm indent.
 
