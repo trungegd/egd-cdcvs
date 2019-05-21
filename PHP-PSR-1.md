@@ -158,3 +158,5 @@ một vendor, package, class, method ...
 ### 4.3. Methods
 
 Tên Method phải được viết dưới dạng `camelCase`.
+
+
